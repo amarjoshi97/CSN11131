@@ -1,0 +1,4 @@
+PySimpleGUI==4.40.0
+PyJWT==1.7.1
+cryptography==2.9.2
+paseto==0.0.5
